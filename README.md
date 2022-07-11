@@ -1,6 +1,6 @@
 ### `MY RecipeApp`
 
-####[Live version link](https://nimble-sfogliatella-cd2023.netlify.app)
+####[Deployment link](https://nimble-sfogliatella-cd2023.netlify.app)
 
 ### `Dummy credentials`
 
